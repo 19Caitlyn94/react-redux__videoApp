@@ -1,5 +1,5 @@
 # ReduxSimpleStarter
-Git Test
+Git Test 2
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
